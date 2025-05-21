@@ -1,0 +1,23 @@
+[generic.seo]
+title = "Starforge Zine"
+description = "Zine is an independent digital journal exploring current affairs, open source, tech culture, and local insight — quiet reflections from the Starforge."
+keywords = [
+  # 時事評論
+  "Current affairs",
+  "Civic awareness",
+  # 專案撰寫
+  "Open source",
+  "Design thinking",
+  # 科技評論
+  "Tech culture",
+  "Human-centered tech",
+  # 地方評論
+  "Local insight",
+  "Everyday politics",
+  # 品牌專用
+  "Starforge",
+  "Zine",
+]
+[generic.page]
+title = "Starforge Zine"
+description = "a chronicle of glimmers and reflections from the Starforge — quiet murmurs written at the edge of the cosmos."
