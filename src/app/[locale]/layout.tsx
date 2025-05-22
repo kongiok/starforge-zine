@@ -1,4 +1,3 @@
-import { locales } from "~/locales/i18n.config";
 import { getTranslator } from "~/locales/i18n.helper.edge";
 import { getLocaleBySegment } from "~/locales/i18n.helper";
 export const generateMetadata = async ({
